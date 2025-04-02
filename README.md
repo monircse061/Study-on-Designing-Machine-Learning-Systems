@@ -36,6 +36,6 @@ This repository contains study notes, presentation slides, and key discussion po
 
 ## 🛠️ Coming Soon
 
-Slides and summaries for the next chapters will be added here before each seminar.
+Slides for the next seminar will be added here before each seminar.
 
 Stay tuned and happy learning! 🚀
