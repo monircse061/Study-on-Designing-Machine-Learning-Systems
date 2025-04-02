@@ -11,7 +11,7 @@ This repository contains study notes, presentation slides, and key discussion po
 |------------|----------------|------------|-------------------------------------------------------------------------------------|
 | Seminar 1  | 14-03-25       | Chapter 1  | **Understanding the Need for ML and Its Real-World Applications**                   |
 | Seminar 2  | 28-03-25       | Chapter 2  | **Key Considerations in ML System Design: Reliability, Scalability & Adaptability** |
-| Seminar 3  | Coming soon    | Chapter 3  | **Data Engineering for ML: Structuring, Storing & Processing Data**                 |
+| Seminar 3  | Coming soon    | Chapter 2 and 3  | **Data Engineering for ML: Structuring, Storing & Processing Data**                 |
 | Seminar 4  | TBA            | Chapter 4  | **High-Quality Training Data: Labeling, Sampling & Class Balancing**                |
 | Seminar 5  | TBA            | Chapter 5  | **Feature Engineering for ML Models**                                               |
 | Seminar 6  | TBA            | Chapter 6  | **Developing & Evaluating ML Models**                                               |
