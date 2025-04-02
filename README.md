@@ -1,4 +1,4 @@
-# 🧠 Study-on-Designing-Machine-Learning-Systems
+# 🧠 Study-on-Designing-Machine-Learning-Systems Book
 
 Welcome to our collaborative reading group on **"Designing Machine Learning Systems Book"** by *Chip Huyen*.  
 This repository contains study notes, presentation slides for each bi-weekly seminar.
