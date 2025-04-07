@@ -33,8 +33,8 @@ This repository contains study notes, presentation slides for each bi-weekly sem
   *Covers:* Business & ML Objectives, Scalability, Maintainability, Adaptability, Iterative ML Development
 
 - 📊 **[Seminar 3 (10-04-25) – Chapter 2and 3 Slides](https://docs.google.com/presentation/d/1MB0rJ8q98FlGtuNSrck5McIwsb_8mR2AJk_oPXmRWSo/edit?usp=sharing)**  
-  *Topic:* Key Considerations in ML System Design  
-  *Covers:* Business & ML Objectives, Scalability, Maintainability, Adaptability, Iterative ML Development
+  *Topic:* Data Engineering for ML: Structuring, Storing & Processing Data  
+  *Covers:* Objective Functions, Mind Versus Data, Data Sources, Data Formats (JSON, Parquet)
 ---
 
 ## 🛠️ Coming Soon
