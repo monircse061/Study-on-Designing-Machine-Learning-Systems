@@ -47,7 +47,7 @@ This repository contains study notes, presentation slides for each bi-weekly sem
   **Slide Title:** Data Engineering for ML: Data Sources & Formats  
   **Key Content Covers:** Data Sources, Data Formats (JSON, Parquet)
 
-- 📊 [**Chapter_3_2_[24-04-2025] – Chapter 3: Part II**](https://docs.google.com/presentation/d/1AifQFnMq_SFIDKOkMt7Y1E-R-0xtFhGn3V8jzY05T0I/edit?usp=sharing)  
+- 📊 [**Chapter_3_2_[25-04-2025] – Chapter 3: Part II**](https://docs.google.com/presentation/d/1AifQFnMq_SFIDKOkMt7Y1E-R-0xtFhGn3V8jzY05T0I/edit?usp=sharing)  
   **Chapter Name:** Data Engineering Fundamentals  
   **Slide Title:** Foundations of Data Modeling: Relational, SQL, NoSQL, and Data Structure Types  
   **Key Content Covers:** Data Relational Model, Normalization, SQL, NoSQL, Document Model, Graph Model, Structured vs Unstructured Data
