@@ -14,7 +14,8 @@ This repository contains study notes, presentation slides for each bi-weekly sem
 |  3  | 10-04-25    | Chapter 2 (Part II)| **Introduction to Machine Learning Systems Design**                 | Objective Functions, Mind Versus Data |
 |  3 | 10-04-25             | Chapter 3 (Part I)       | **Data Engineering Fundamentals**                | Data Sources (structured vs. unstructured), Data Formats (JSON, Parquet) |
 |  4  | TBA            | Chatpter 3 (Part II)          | **Data Engineering Fundamentals**                | Data Relational Model, Normalization, SQL, NoSQL, Document Model, Graph Model, Structured vs Unstructured Data |
-|  5 | TBA            | Chatpter 3 (Part III)          | **Data Engineering Fundamentals**                | Data Storage Engines and Processing, Transactional and Analytical Processing, ETL: Extract, Transform, and Load, Modes of Dataflow, Batch Processing Versus Stream Processing |
+|  5 | TBA            | Chatpter 3 (Part III)          | **Data Engineering Fundamentals**                | Data Storage Engines and Processing, Transactional and Analytical Processing, ETL: Extract, Transform, and Load |
+|  5 | TBA            | Chatpter 3 (Part IV)          | **Data Engineering Fundamentals**                | Modes of Dataflow, Batch Processing Versus Stream Processing |
 |  6  | TBA            | Chatpter 4      | **Training Data**                | Data Sampling Methods (Random, Stratified, Weighted), Labeling Strategies (Hand-labeled, Natural Labels), Handling Class Imbalance (Oversampling, Undersampling, SMOTE) |
 |  7  | TBA            | Chapter 5       | **Feature Engineering**                                               | Handling Missing Data, Encoding Categorical Variables, Feature Scaling & Normalization, Feature Importance, Feature Leakage Detection |
 |  8 | TBA            | Chapter 6       | **Model Development and Offline Evaluation**                                               | ML Experiment Tracking, AutoML, Selecting Baselines, Evaluation Metrics (Precision, Recall, F1 Score, AUC-ROC), Handling Model Overfitting |
@@ -52,6 +53,15 @@ This repository contains study notes, presentation slides for each bi-weekly sem
   **Slide Title:** Foundations of Data Modeling: Relational, SQL, NoSQL, and Data Structure Types  
   **Key Content Covers:** Data Relational Model, Normalization, SQL, NoSQL, Document Model, Graph Model, Structured vs Unstructured Data
 
+- 📊 [**Chapter_3_3_[30-04-2025] – Chapter 3: Part III**](https://docs.google.com/presentation/d/1AifQFnMq_SFIDKOkMt7Y1E-R-0xtFhGn3V8jzY05T0I/edit?usp=sharing)  
+  **Chapter Name:** Data Engineering Fundamentals  
+  **Slide Title:** Data Storage Engines and Processing  
+  **Key Content Covers:** Data Storage Engines and Processing, Transactional Processing, Analytical Processing, ETL: Extract, Transform, and Load
+
+- 📊 [**Chapter_3_4_[30-04-2025] – Chapter 3: Part IV**](https://docs.google.com/presentation/d/1AifQFnMq_SFIDKOkMt7Y1E-R-0xtFhGn3V8jzY05T0I/edit?usp=sharing)  
+  **Chapter Name:** Data Engineering Fundamentals  
+  **Slide Title:** Modes of Dataflow, Batch Processing Versus Stream Processing 
+  **Key Content Covers:** Modes of Dataflow, Data Passing Through Databases, Data Passing Through Services, Data Passing Through Real-Time Transport, Batch Processing Versus Stream Processing 
 
 ---
 
