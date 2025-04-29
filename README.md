@@ -53,12 +53,12 @@ This repository contains study notes, presentation slides for each bi-weekly sem
   **Slide Title:** Foundations of Data Modeling: Relational, SQL, NoSQL, and Data Structure Types  
   **Key Content Covers:** Data Relational Model, Normalization, SQL, NoSQL, Document Model, Graph Model, Structured vs Unstructured Data
 
-- 📊 [**Chapter_3_3_[30-04-2025] – Chapter 3: Part III**]([https://docs.google.com/presentation/d/1AifQFnMq_SFIDKOkMt7Y1E-R-0xtFhGn3V8jzY05T0I/edit?usp=sharing](https://docs.google.com/presentation/d/1J8xlNEudKTTF4BmAJUTpagarYuUGCrAuqXObxz_MPAg/edit?usp=sharing))  
+- 📊 [**Chapter_3_3_[30-04-2025] – Chapter 3: Part III**](https://docs.google.com/presentation/d/1J8xlNEudKTTF4BmAJUTpagarYuUGCrAuqXObxz_MPAg/edit?usp=sharing))  
   **Chapter Name:** Data Engineering Fundamentals  
   **Slide Title:** Data Storage Engines and Processing  
   **Key Content Covers:** Data Storage Engines and Processing, Transactional Processing, Analytical Processing, ETL: Extract, Transform, and Load
 
-- 📊 [**Chapter_3_4_[30-04-2025] – Chapter 3: Part IV**]([https://docs.google.com/presentation/d/1AifQFnMq_SFIDKOkMt7Y1E-R-0xtFhGn3V8jzY05T0I/edit?usp=sharing](https://docs.google.com/presentation/d/195PgN1yut05_vXdewZqX5q4lHhakl91qzJmAJQgBtrE/edit?usp=sharing))  
+- 📊 [**Chapter_3_4_[30-04-2025] – Chapter 3: Part IV**](https://docs.google.com/presentation/d/195PgN1yut05_vXdewZqX5q4lHhakl91qzJmAJQgBtrE/edit?usp=sharing))  
   **Chapter Name:** Data Engineering Fundamentals  
   **Slide Title:** Modes of Dataflow, Batch Processing Versus Stream Processing
   **Key Content Covers:** Modes of Dataflow, Data Passing Through Databases, Data Passing Through Services, Data Passing Through Real-Time Transport, Batch Processing Versus Stream Processing 
