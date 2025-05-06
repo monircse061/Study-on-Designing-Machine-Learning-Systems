@@ -15,8 +15,9 @@ This repository contains study notes, presentation slides for each bi-weekly sem
 |  3 | 10-04-25             | Chapter 3 (Part I)       | **Data Engineering Fundamentals**                | Data Sources (structured vs. unstructured), Data Formats (JSON, Parquet) |
 |  4  | TBA            | Chatpter 3 (Part II)          | **Data Engineering Fundamentals**                | Data Relational Model, Normalization, SQL, NoSQL, Document Model, Graph Model, Structured vs Unstructured Data |
 |  5 | TBA            | Chatpter 3 (Part III)          | **Data Engineering Fundamentals**                | Data Storage Engines and Processing, Transactional and Analytical Processing, ETL: Extract, Transform, and Load |
-|  5 | TBA            | Chatpter 3 (Part IV)          | **Data Engineering Fundamentals**                | Modes of Dataflow, Batch Processing Versus Stream Processing |
-|  6  | TBA            | Chatpter 4      | **Training Data**                | Data Sampling Methods (Random, Stratified, Weighted), Labeling Strategies (Hand-labeled, Natural Labels), Handling Class Imbalance (Oversampling, Undersampling, SMOTE) |
+|  5 | TBA            | Chatpter 3 (Part IV)          | **Data Engineering Fundamentals**                | Modes of Dataflow, Batch Processing Versus Stream Processing |  
+|  6  | TBA            | Chatpter 4  (Part I)    | **Training Data**                | Data Sampling, Sampling Types, Nonprobability Sampling, Types of Non-Probability Sampling, Simple Random Sampling |
+|  6  | TBA            | Chatpter 4      | **Training Data**                | Data Sampling Methods (Stratified, Weighted), Labeling Strategies (Hand-labeled, Natural Labels), Handling Class Imbalance (Oversampling, Undersampling, SMOTE) |
 |  7  | TBA            | Chapter 5       | **Feature Engineering**                                               | Handling Missing Data, Encoding Categorical Variables, Feature Scaling & Normalization, Feature Importance, Feature Leakage Detection |
 |  8 | TBA            | Chapter 6       | **Model Development and Offline Evaluation**                                               | ML Experiment Tracking, AutoML, Selecting Baselines, Evaluation Metrics (Precision, Recall, F1 Score, AUC-ROC), Handling Model Overfitting |
 |  9  | TBA            | Chapter 7       | **Model Deployment and Prediction Service**                                                             | Batch vs. Online Predictions, Model Compression (Quantization, Pruning), Edge Computing, Challenges in Model Deployment |
@@ -61,7 +62,12 @@ This repository contains study notes, presentation slides for each bi-weekly sem
 - 📊 [**Chapter_3_4_[30-04-2025] – Chapter 3: Part IV**](https://docs.google.com/presentation/d/195PgN1yut05_vXdewZqX5q4lHhakl91qzJmAJQgBtrE/edit?usp=sharing))  
   **Chapter Name:** Data Engineering Fundamentals  
   **Slide Title:** Modes of Dataflow, Batch Processing Versus Stream Processing
-  **Key Content Covers:** Modes of Dataflow, Data Passing Through Databases, Data Passing Through Services, Data Passing Through Real-Time Transport, Batch Processing Versus Stream Processing 
+  **Key Content Covers:** Modes of Dataflow, Data Passing Through Databases, Data Passing Through Services, Data Passing Through Real-Time Transport, Batch Processing Versus Stream Processing
+
+- 📊 [**Chapter_4_1_[06-05-2025] – Chapter 4: Part I**](https://docs.google.com/presentation/d/1XgTvPrPD8vFlhHQ-g3i5IU4vB5unfpctImF1MIfXtZE/edit?usp=sharing)  
+  **Chapter Name:** Training Data  
+  **Slide Title:** Data Sampling Methods  
+  **Key Content Covers:** Data Sampling, Sampling Types, Nonprobability Sampling, Types of Non-Probability Sampling, Simple Random Sampling
 
 ---
 
